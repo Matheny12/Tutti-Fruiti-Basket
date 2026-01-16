@@ -1,0 +1,3 @@
+/home/matheny12/Fruit_Catcher_Game/build-em/CMakeFiles/game.dir
+/home/matheny12/Fruit_Catcher_Game/build-em/CMakeFiles/edit_cache.dir
+/home/matheny12/Fruit_Catcher_Game/build-em/CMakeFiles/rebuild_cache.dir

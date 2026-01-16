@@ -1,0 +1,1 @@
+ /home/matheny12/SDL/EmscriptenRelease/lib/libSDL3.a /home/matheny12/SDL_image/EmscriptenRelease/lib/libSDL3_image.a /home/matheny12/SDL_ttf/EmscriptenRelease/lib/libSDL3_ttf.a -lm "/home/matheny12/emsdk/upstream/emscripten/cache/sysroot/lib/wasm32-emscripten/libfreetype.a" 

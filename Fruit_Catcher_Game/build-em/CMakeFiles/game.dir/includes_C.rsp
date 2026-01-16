@@ -1,0 +1,1 @@
+-I/home/matheny12/SDL/EmscriptenRelease/include -isystem /home/matheny12/SDL_image/EmscriptenRelease/include -isystem /home/matheny12/SDL_ttf/EmscriptenRelease/include
